@@ -1,0 +1,15 @@
+E:\2nd Term\Software Development and Professional Practice - AMR\Section\SW_C#_Projects\Practical\Practical\bin\Debug\net6.0\Practical.exe
+E:\2nd Term\Software Development and Professional Practice - AMR\Section\SW_C#_Projects\Practical\Practical\bin\Debug\net6.0\Practical.deps.json
+E:\2nd Term\Software Development and Professional Practice - AMR\Section\SW_C#_Projects\Practical\Practical\bin\Debug\net6.0\Practical.runtimeconfig.json
+E:\2nd Term\Software Development and Professional Practice - AMR\Section\SW_C#_Projects\Practical\Practical\bin\Debug\net6.0\Practical.dll
+E:\2nd Term\Software Development and Professional Practice - AMR\Section\SW_C#_Projects\Practical\Practical\bin\Debug\net6.0\Practical.pdb
+E:\2nd Term\Software Development and Professional Practice - AMR\Section\SW_C#_Projects\Practical\Practical\obj\Debug\net6.0\Practical.csproj.AssemblyReference.cache
+E:\2nd Term\Software Development and Professional Practice - AMR\Section\SW_C#_Projects\Practical\Practical\obj\Debug\net6.0\Practical.GeneratedMSBuildEditorConfig.editorconfig
+E:\2nd Term\Software Development and Professional Practice - AMR\Section\SW_C#_Projects\Practical\Practical\obj\Debug\net6.0\Practical.AssemblyInfoInputs.cache
+E:\2nd Term\Software Development and Professional Practice - AMR\Section\SW_C#_Projects\Practical\Practical\obj\Debug\net6.0\Practical.AssemblyInfo.cs
+E:\2nd Term\Software Development and Professional Practice - AMR\Section\SW_C#_Projects\Practical\Practical\obj\Debug\net6.0\Practical.csproj.CoreCompileInputs.cache
+E:\2nd Term\Software Development and Professional Practice - AMR\Section\SW_C#_Projects\Practical\Practical\obj\Debug\net6.0\Practical.dll
+E:\2nd Term\Software Development and Professional Practice - AMR\Section\SW_C#_Projects\Practical\Practical\obj\Debug\net6.0\refint\Practical.dll
+E:\2nd Term\Software Development and Professional Practice - AMR\Section\SW_C#_Projects\Practical\Practical\obj\Debug\net6.0\Practical.pdb
+E:\2nd Term\Software Development and Professional Practice - AMR\Section\SW_C#_Projects\Practical\Practical\obj\Debug\net6.0\Practical.genruntimeconfig.cache
+E:\2nd Term\Software Development and Professional Practice - AMR\Section\SW_C#_Projects\Practical\Practical\obj\Debug\net6.0\ref\Practical.dll
